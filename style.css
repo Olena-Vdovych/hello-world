@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(31, 5, 5);
+    font-family: 'Times New Roman', Times, serif;
+    height: 1500px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+h1 {
+    color: red;
+    height: 20px;
+}
+p {
+    color: darkred;
+}
+p.text {
+    height: 14px;
+}
+p.made {
+    height: 10px;
+}
