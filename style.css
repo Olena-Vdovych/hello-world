@@ -16,8 +16,12 @@ p {
     color: darkred;
 }
 p.text {
-    height: 14px;
+    height: 20px;
 }
 p.made {
     height: 10px;
+}
+img {
+    width: 150px;
+    height: 150px;
 }
