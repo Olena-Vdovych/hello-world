@@ -1,12 +1,6 @@
 body {
     background-color: rgb(31, 5, 5);
     font-family: 'Times New Roman', Times, serif;
-    height: 1500px;
-}
-div {
-    display: flex;
-    justify-content: center;
-    align-items: center
 }
 h1 {
     color: red;
